@@ -188,7 +188,30 @@ The project integrated Firebase services for:
 - Push notifications.
 
 ---
+🔮 Future Improvements
 
+Potential future improvements for the project include:
+
+Redesigning and improving the overall UI/UX.
+Adding Arabic language support and RTL layouts.
+Expanding the school management features.
+Adding advanced academic reports and analytics.
+Improving the administration and management experience.
+Expanding the communication and chat capabilities.
+Adding additional school management modules.
+📌 Project Status
+
+This project was completed as a graduation project and is currently archived.
+
+The application is no longer actively maintained or running in production. The repository is preserved as a representation of the project's development work, technical implementation, and the experience gained while building a complete Flutter and Firebase-based school management system.
+
+👨‍💻 Developer
+
+Momen Badr
+
+Flutter Developer | Computer Science Graduate
+
+EarlyEd was developed as a graduation project with a focus on building a complete smart school management solution using Flutter, Provider, and Firebase.
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -207,3 +230,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/MomenBadr/EarlyEd.git
+
