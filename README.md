@@ -138,15 +138,15 @@ The following screenshots provide examples of the application's user interface a
 
 ### Login
 
-![Login Screen](screenshots/login.png)
+![Login Screen](assets/screenshots/login.png)
 
 ### Users
 
-![Users Screen](screenshots/users.png)
+![Users Screen](assets/screenshots/users.png)
 
 ### Individual & Group Chat
 
-![Chat Screen](screenshots/chat.png)
+![Chat Screen](assets/screenshots/chats.jpg)
 
 ---
 
