@@ -136,19 +136,12 @@ The following screenshots provide examples of the application's user interface a
 
 > **Note:** The displayed UI represents an initial/prototype design created during the development phase. The application's core functionality and business logic were implemented and functional, while the UI/UX was considered an early version and was not intended to represent the final production design.
 
-### Login
+<p align="center">
+  <img src="assets/screenshots/login.png" width="250">
+  <img src="assets/screenshots/users.png" width="250">
+  <img src="assets/screenshots/chats.jpg" width="250">
+</p>
 
-![Login Screen](assets/screenshots/login.png)
-
-### Users
-
-![Users Screen](assets/screenshots/users.png)
-
-### Individual & Group Chat
-
-![Chat Screen](assets/screenshots/chats.jpg)
-
----
 
 ## 🎓 Graduation Project
 
@@ -188,46 +181,33 @@ The project integrated Firebase services for:
 - Push notifications.
 
 ---
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Potential future improvements for the project include:
 
-Redesigning and improving the overall UI/UX.
-Adding Arabic language support and RTL layouts.
-Expanding the school management features.
-Adding advanced academic reports and analytics.
-Improving the administration and management experience.
-Expanding the communication and chat capabilities.
-Adding additional school management modules.
-📌 Project Status
+- Redesigning and improving the overall UI/UX.
+- Adding Arabic language support and RTL layouts.
+- Expanding the school management features.
+- Adding advanced academic reports and analytics.
+- Improving the administration and management experience.
+- Expanding the communication and chat capabilities.
+- Adding additional school management modules.
+
+---
+
+## 📌 Project Status
 
 This project was completed as a graduation project and is currently archived.
 
 The application is no longer actively maintained or running in production. The repository is preserved as a representation of the project's development work, technical implementation, and the experience gained while building a complete Flutter and Firebase-based school management system.
 
-👨‍💻 Developer
+---
 
-Momen Badr
+## 👨‍💻 Developer
+
+**Momen Badr**
 
 Flutter Developer | Computer Science Graduate
 
 EarlyEd was developed as a graduation project with a focus on building a complete smart school management solution using Flutter, Provider, and Firebase.
-## 🚀 Getting Started
-
-### Prerequisites
-
-Before running the project, make sure you have:
-
-- Flutter SDK installed.
-- Dart SDK installed.
-- Android Studio or Visual Studio Code.
-- An Android emulator or a physical Android device.
-- A configured Firebase project.
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/MomenBadr/EarlyEd.git
 
